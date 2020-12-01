@@ -1,0 +1,12 @@
+{
+  "name": "githubJavaPop",
+  "displayName": "githubJavaPop",
+  "expo": {
+    "name": "githubJavaPop",
+    "slug": "githubJavaPop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
